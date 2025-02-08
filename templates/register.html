@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registrace</title>
+</head>
+<body>
+    <h2>Registrace</h2>
+    <form method="POST">
+        <label for="username">Uživatelské jméno:</label>
+        <input type="text" id="username" name="username" required><br><br>
+        <label for="password">Heslo:</label>
+        <input type="password" id="password" name="password" required><br><br>
+        <button type="submit">Registrovat</button>
+    </form>
+    <p>Máte již účet? <a href="{{ url_for('login') }}">Přihlaste se</a></p>
+</body>
+</html>

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pozorovač cen</title>
+    <style>
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #dce686;
+        }
+        h1{
+            text-align: center;
+
+        }
+        .main-container {
+            display: flex;
+            gap: 20px;
+            align-items: flex-start;
+            background: rgba(222, 159, 159, 0.8);
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px;
+        }
+        .form-container {
+            width: 50%;
+            gap:10px;
+             
+        }
+        .add-url-container {
+            width: 50%;
+            border-left: 5px solid #000000;
+            padding-left: 20px;
+        }
+        .product-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            font-style: normal;
+            font-size: medium;
+        }
+        .product-item {
+            border: 3px solid #000000;
+            padding: 10px;
+        }
+    </style>
+     
+    </head>
+<body>
+    <h1>Pozorovač cen</h1>
+    <div class="main-container">
+        
+        <div class="form-container">
+            <form method="POST">
+                <label for="hledany_nazev">Hledat produkt:</label>
+                <input type="text" id="hledany_nazev" name="hledany_nazev" value="{{ request.form.get('hledany_nazev', '') }}"><br><br>
+                
+                <label for="cena_od">Cena od:</label>
+                <input type="number" id="cena_od" name="cena_od" value="{{ request.form.get('cena_od', '') }}"><br><br>
+                
+                <label for="cena_do">Cena do:</label>
+                <input type="number" id="cena_do" name="cena_do" value="{{ request.form.get('cena_do', '') }}"><br><br>
+                
+                <label for="datum_od">Datum přidání od:</label>
+                <input type="date" id="datum_od" name="datum_od" value="{{ request.form.get('datum_od', '') }}"><br><br>
+                
+                <label for="sort_order">Řazení:</label>
+                <select name="sort_order" id="sort_order">
+                    <option value="asc" {% if request.form.get('sort_order') == 'asc' %}selected{% endif %}>Od nejlevnějšího</option>
+                    <option value="desc" {% if request.form.get('sort_order') == 'desc' %}selected{% endif %}>Od nejdražšího</option>
+                    <option value="rating_desc" {% if request.form.get('sort_order') == 'rating_desc' %}selected{% endif %}>Od nejlépe hodnoceného</option>
+                    <option value="rating_asc" {% if request.form.get('sort_order') == 'rating_asc' %}selected{% endif %}>Od nejhůře hodnoceného</option>
+                    <option value="date_asc" {% if request.form.get('sort_order') == 'date_asc' %}selected{% endif %}>Od nejstaršího</option>
+                    <option value="date_desc" {% if request.form.get('sort_order')  == 'date_desc' %}selected{% endif %}>Od nejnovějšího</option>
+                </select><br><br>
+                <button type="submit">Hledat</button>
+            </form>
+        </div>
+ 
+        <div class="add-url-container">
+            <h2>Přidat URL</h2>
+            <form method="post">
+                <input type="text" name="kategorie" placeholder="Kategorie"><br><br>
+                <input type="text" name="produkt" placeholder="Název produktu"><br><br>
+                <input type="url" name="url" placeholder="URL"><br><br>
+                <button type="submit">Přidat URL</button>
+            </form>
+        </div>
+    </div>
+ 
+    <hr>
+    <div class="product-grid">
+        {% for produkt in search_results %}
+            <div class="product-item">
+                <a href="{{ produkt['URL'] }}">{{ produkt['Nazev'] }}</a><br>
+                Cena: {{ produkt['Cena (Kč)'] }} Kč<br>
+                Hodnocení: {{ produkt['Hodnoceni'] }}<br>
+                Dostupnost: {{ produkt['Dostupnost'] }}<br>
+                Čas: {{ produkt['Cas'] }}<br>
+                <a href="{{ url_for('vyvoj_ceny', nazev=produkt.Nazev) }}" class="btn btn-primary">Vývoj ceny</a>
+            </div>
+        {% endfor %}
+    </div>
+</body>
+</html>
+ 

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ product['Nazev'] }}</title>
+</head>
+<body>
+    <h1>{{ product['Nazev'] }}</h1>
+    <p><strong>Čas:</strong> {{ product['Cas'] }}</p>
+    <p><strong>Cena (Kč):</strong> {{ product['Cena'] }} Kč</p>
+    <p><strong>Hodnocení:</strong> {{ product['Hodnoceni'] }}</p>
+    <p><strong>Dostupnost:</strong> {{ product['Dostupnost'] }}</p>
+    <p><strong>URL:</strong> <a href="{{ product['URL'] }}" target="_blank">{{ product['URL'] }}</a></p>
+    <a href="/">Zpět na vyhledávání</a>
+</body>
+</html>

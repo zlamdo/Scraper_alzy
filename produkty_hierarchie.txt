@@ -1,0 +1,2860 @@
+Hlavní kategorie: Mobilní telefony
+  Podkategorie: Apple iPhone 13
+    Název: iPhone 13 128GB černá
+      Záznam:
+        Čas: 2024-12-30 11:25:24
+        Cena (Kč): 12990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+
+    Název: iPhone 13 128GB bílá
+      Záznam:
+        Čas: 2024-12-30 11:25:35
+        Cena (Kč): 12990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+
+    Název: iPhone 13 512GB černá
+      Záznam:
+        Čas: 2024-12-30 11:25:47
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem 2 ks
+
+    Název: iPhone 13 512GB růžová
+      Záznam:
+        Čas: 2024-12-30 11:25:56
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+
+    Název: iPhone 13 512GB červená
+      Záznam:
+        Čas: 2024-12-30 11:26:05
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+
+    Název: iPhone 13 512GB zelená
+      Záznam:
+        Čas: 2024-12-30 11:26:17
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+
+    Název: iPhone 13 128GB bílá
+      Záznam:
+        Čas: 2024-12-30 11:26:32
+        Cena (Kč): 12290
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+
+    Název: iPhone 13 128GB bílá
+      Záznam:
+        Čas: 2024-12-30 11:26:39
+        Cena (Kč): 12590
+        Hodnocení: 4.8
+        Dostupnost: Rozbaleno - skladem
+
+    Název: iPhone 13 512GB černá
+      Záznam:
+        Čas: 2024-12-30 11:26:48
+        Cena (Kč): 18390
+        Hodnocení: 4.8
+        Dostupnost: Rozbaleno - skladem
+
+    Název: iPhone 13 Pro 256GB zelená
+      Záznam:
+        Čas: 2024-12-30 11:27:04
+        Cena (Kč): 30990
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+
+    Název: iPhone 13 Pro 256GB zlatá
+      Záznam:
+        Čas: 2024-12-30 11:27:20
+        Cena (Kč): 30490
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+
+    Název: iPhone 13 128GB růžová
+      Záznam:
+        Čas: 2024-12-30 11:27:31
+        Cena (Kč): 11490
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+
+    Název: iPhone 13 128GB modrá
+      Záznam:
+        Čas: 2024-12-30 11:27:44
+        Cena (Kč): 11490
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+
+    Název: iPhone 13 Pro 128GB zlatá
+      Záznam:
+        Čas: 2024-12-30 11:27:51
+        Cena (Kč): 17790
+        Hodnocení: 4.8
+        Dostupnost: Zánovní - skladem
+
+    Název: iPhone 13 Mini 128GB černá
+      Záznam:
+        Čas: 2024-12-30 11:28:05
+        Cena (Kč): 16390
+        Hodnocení: 4.9
+        Dostupnost: Zánovní - skladem
+
+    Název: iPhone 13 Pro Max 128GB zelená
+      Záznam:
+        Čas: 2024-12-30 11:28:18
+        Cena (Kč): 27090
+        Hodnocení: 4.8
+        Dostupnost: Rozbaleno - skladem
+
+    Název: iPhone 13 512GB modrá
+      Záznam:
+        Čas: 2024-12-30 11:28:25
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem 3 ks
+
+
+  Podkategorie: Google Pixel
+    Název: Google Pixel 8 8GB/256GB Hazel
+      Záznam:
+        Čas: 2024-12-30 11:28:35
+        Cena (Kč): 14490
+        Hodnocení: 4.699999999999999
+        Dostupnost: Skladem > 5 ks
+
+    Název: Google Pixel 9 128GB Obsidian
+      Záznam:
+        Čas: 2024-12-30 11:28:50
+        Cena (Kč): 20390
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+
+    Název: Google Pixel 9 256GB Obsidian
+      Záznam:
+        Čas: 2024-12-30 11:29:04
+        Cena (Kč): 22890
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+
+    Název: Google Pixel 9 Pro 256GB Obsidian
+      Záznam:
+        Čas: 2024-12-30 11:29:18
+        Cena (Kč): 27890
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+
+    Název: Google Pixel 8a 8GB/256GB Obsidian
+      Záznam:
+        Čas: 2024-12-30 11:29:26
+        Cena (Kč): 11990
+        Hodnocení: 4.699999999999999
+        Dostupnost: Skladem > 5 ks
+
+    Název: Google Pixel 9 Pro 128GB Obsidian
+      Záznam:
+        Čas: 2024-12-30 11:29:33
+        Cena (Kč): 25490
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+
+    Název: Google Pixel 9 Pro 256GB Hazel
+      Záznam:
+        Čas: 2024-12-30 11:29:47
+        Cena (Kč): 27890
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+
+    Název: Google Pixel 8a 8GB/128GB Bay
+      Záznam:
+        Čas: 2024-12-30 11:29:55
+        Cena (Kč): 9990
+        Hodnocení: 4.699999999999999
+        Dostupnost: Skladem > 5 ks
+
+    Název: Google Pixel 8 8GB/128GB Hazel
+      Záznam:
+        Čas: 2024-12-30 11:30:08
+        Cena (Kč): 12990
+        Hodnocení: 4.699999999999999
+        Dostupnost: Skladem > 5 ks
+
+    Název: Google Pixel 8a 8GB/128GB Aloe
+      Záznam:
+        Čas: 2024-12-30 11:30:21
+        Cena (Kč): 9990
+        Hodnocení: 4.699999999999999
+        Dostupnost: Skladem > 5 ks
+
+    Název: Google Pixel 9 Pro 512GB Obsidian
+      Záznam:
+        Čas: 2024-12-30 11:30:30
+        Cena (Kč): 31390
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+
+    Název: Google Pixel 9 Pro XL 512GB Obsidian
+      Záznam:
+        Čas: 2024-12-30 11:30:37
+        Cena (Kč): 33890
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+
+    Název: Google Pixel 9 Pro 128GB Hazel
+      Záznam:
+        Čas: 2024-12-30 11:30:47
+        Cena (Kč): 25390
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+
+    Název: Google Pixel 8 Pro 12GB/128GB Obsidian
+      Záznam:
+        Čas: 2024-12-30 11:30:54
+        Cena (Kč): 15990
+        Hodnocení: 4.6000000000000005
+        Dostupnost: Skladem
+
+    Název: Google Pixel 9 128GB Wintergreen
+      Záznam:
+        Čas: 2024-12-30 11:31:07
+        Cena (Kč): 20390
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+
+    Název: Google Pixel 9 Pro XL 256GB Porcelain
+      Záznam:
+        Čas: 2024-12-30 11:31:19
+        Cena (Kč): 30390
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+
+    Název: Google Pixel 9 128GB Porcelain
+      Záznam:
+        Čas: 2024-12-30 11:31:35
+        Cena (Kč): 20390
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+
+    Název: Google Pixel 9 128GB Peony
+      Záznam:
+        Čas: 2024-12-30 11:31:46
+        Cena (Kč): 20390
+        Hodnocení: 4.9
+        Dostupnost: Skladem 5 ks
+
+    Název: Google Pixel 9 Pro XL 128GB Hazel
+      Záznam:
+        Čas: 2024-12-30 11:31:56
+        Cena (Kč): 27890
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+
+    Název: Google Pixel 8 Pro 12GB/128GB Porcelain
+      Záznam:
+        Čas: 2024-12-30 11:32:13
+        Cena (Kč): 14990
+        Hodnocení: 4.6000000000000005
+        Dostupnost: Skladem
+
+    Název: Google Pixel 9 256GB Wintergreen
+      Záznam:
+        Čas: 2024-12-30 11:32:24
+        Cena (Kč): 22890
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+
+    Název: Google Pixel 9 Pro 128GB Porcelain
+      Záznam:
+        Čas: 2024-12-30 11:32:33
+        Cena (Kč): 25390
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+
+    Název: Google Pixel 9 Pro 512GB Hazel
+      Záznam:
+        Čas: 2024-12-30 11:32:44
+        Cena (Kč): 31390
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+
+    Název: Google Pixel 8 Pro 12GB/128GB Bay
+      Záznam:
+        Čas: 2024-12-30 11:32:54
+        Cena (Kč): 15990
+        Hodnocení: 4.6000000000000005
+        Dostupnost: Skladem
+
+
+
+      Záznam:
+        Čas: 2024-12-30 11:44:34
+        Cena (Kč): 12990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13-128gb-cerna-d6731111.htm
+
+      Záznam:
+        Čas: 2024-12-30 11:44:50
+        Cena (Kč): 12990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13?dq=6731110
+
+      Záznam:
+        Čas: 2024-12-30 11:45:04
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem 2 ks
+        URL: https://www.alza.cz/iphone-13?dq=6731121
+
+      Záznam:
+        Čas: 2024-12-30 11:45:13
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13?dq=6731124
+
+      Záznam:
+        Čas: 2024-12-30 11:45:28
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13?dq=6731122
+
+      Záznam:
+        Čas: 2024-12-30 11:45:39
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13?dq=7059004
+
+      Záznam:
+        Čas: 2024-12-30 11:45:52
+        Cena (Kč): 12290
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-128gb-bila-bazar-d7372196.htm
+
+      Záznam:
+        Čas: 2024-12-30 11:46:07
+        Cena (Kč): 12590
+        Hodnocení: 4.8
+        Dostupnost: Rozbaleno - skladem
+        URL: https://www.alza.cz/iphone-13-128gb-bila-levne-d6917872.htm
+
+      Záznam:
+        Čas: 2024-12-30 11:46:22
+        Cena (Kč): 18390
+        Hodnocení: 4.8
+        Dostupnost: Rozbaleno - skladem
+        URL: https://www.alza.cz/iphone-13-512gb-cerna-levne-d7340762.htm
+
+      Záznam:
+        Čas: 2024-12-30 11:46:34
+        Cena (Kč): 30990
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-pro-256gb-zelena-bazar-d7605975.htm
+
+      Záznam:
+        Čas: 2024-12-30 11:46:43
+        Cena (Kč): 30490
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/gaming/iphone-13-pro-256gb-zlata-bazar-d7232468.htm
+
+      Záznam:
+        Čas: 2024-12-30 11:46:59
+        Cena (Kč): 11490
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-128gb-ruzova-bazar-d7074594.htm
+
+      Záznam:
+        Čas: 2024-12-30 11:47:11
+        Cena (Kč): 11490
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-128gb-modra-bazar-d7056445.htm
+
+      Záznam:
+        Čas: 2024-12-30 11:47:26
+        Cena (Kč): 17790
+        Hodnocení: 4.8
+        Dostupnost: Zánovní - skladem
+        URL: https://www.alza.cz/gaming/iphone-13-pro-128gb-zlata-sleva-d6997822.htm
+
+      Záznam:
+        Čas: 2024-12-30 11:47:40
+        Cena (Kč): 16390
+        Hodnocení: 4.9
+        Dostupnost: Zánovní - skladem
+        URL: https://www.alza.cz/iphone-13-mini-128gb-cerna-sleva-d6777635.htm
+
+      Záznam:
+        Čas: 2024-12-30 11:47:55
+        Cena (Kč): 27090
+        Hodnocení: 4.8
+        Dostupnost: Rozbaleno - skladem
+        URL: https://www.alza.cz/iphone-13-pro-max-128gb-zelena-levne-d7104113.htm
+
+      Záznam:
+        Čas: 2024-12-30 11:48:01
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem 3 ks
+        URL: https://www.alza.cz/iphone-13?dq=6731123
+
+    Název: iPhone 13 128GB černá
+      Záznam:
+        Čas: 2024-12-30 12:00:48
+        Cena (Kč): 12990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13-128gb-cerna-d6731111.htm
+
+    Název: iPhone 13 128GB černá
+      Záznam:
+        Čas: 2024-12-30 12:01:27
+        Cena (Kč): 12990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13-128gb-cerna-d6731111.htm
+
+    Název: iPhone 13 128GB bílá
+      Záznam:
+        Čas: 2024-12-30 12:01:41
+        Cena (Kč): 12990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13?dq=6731110
+
+    Název: iPhone 13 512GB černá
+      Záznam:
+        Čas: 2024-12-30 12:01:52
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem 2 ks
+        URL: https://www.alza.cz/iphone-13?dq=6731121
+
+    Název: iPhone 13 512GB růžová
+      Záznam:
+        Čas: 2024-12-30 12:02:04
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13?dq=6731124
+
+    Název: iPhone 13 512GB červená
+      Záznam:
+        Čas: 2024-12-30 12:02:16
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13?dq=6731122
+
+    Název: iPhone 13 512GB zelená
+      Záznam:
+        Čas: 2024-12-30 12:02:23
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13?dq=7059004
+
+    Název: iPhone 13 128GB bílá
+      Záznam:
+        Čas: 2024-12-30 12:02:32
+        Cena (Kč): 12290
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-128gb-bila-bazar-d7372196.htm
+
+    Název: iPhone 13 128GB bílá
+      Záznam:
+        Čas: 2024-12-30 12:02:42
+        Cena (Kč): 12590
+        Hodnocení: 4.8
+        Dostupnost: Rozbaleno - skladem
+        URL: https://www.alza.cz/iphone-13-128gb-bila-levne-d6917872.htm
+
+    Název: iPhone 13 512GB černá
+      Záznam:
+        Čas: 2024-12-30 12:02:50
+        Cena (Kč): 18390
+        Hodnocení: 4.8
+        Dostupnost: Rozbaleno - skladem
+        URL: https://www.alza.cz/iphone-13-512gb-cerna-levne-d7340762.htm
+
+    Název: iPhone 13 Pro 256GB zelená
+      Záznam:
+        Čas: 2024-12-30 12:02:57
+        Cena (Kč): 30990
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-pro-256gb-zelena-bazar-d7605975.htm
+
+    Název: iPhone 13 Pro 256GB zlatá
+      Záznam:
+        Čas: 2024-12-30 12:03:04
+        Cena (Kč): 30490
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/gaming/iphone-13-pro-256gb-zlata-bazar-d7232468.htm
+
+    Název: iPhone 13 128GB růžová
+      Záznam:
+        Čas: 2024-12-30 12:03:14
+        Cena (Kč): 11490
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-128gb-ruzova-bazar-d7074594.htm
+
+    Název: iPhone 13 128GB modrá
+      Záznam:
+        Čas: 2024-12-30 12:03:27
+        Cena (Kč): 11490
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-128gb-modra-bazar-d7056445.htm
+
+    Název: iPhone 13 Pro 128GB zlatá
+      Záznam:
+        Čas: 2024-12-30 12:03:41
+        Cena (Kč): 17790
+        Hodnocení: 4.8
+        Dostupnost: Zánovní - skladem
+        URL: https://www.alza.cz/gaming/iphone-13-pro-128gb-zlata-sleva-d6997822.htm
+
+    Název: iPhone 13 Mini 128GB černá
+      Záznam:
+        Čas: 2024-12-30 12:03:56
+        Cena (Kč): 16390
+        Hodnocení: 4.9
+        Dostupnost: Zánovní - skladem
+        URL: https://www.alza.cz/iphone-13-mini-128gb-cerna-sleva-d6777635.htm
+
+    Název: iPhone 13 Pro Max 128GB zelená
+      Záznam:
+        Čas: 2024-12-30 12:04:11
+        Cena (Kč): 27090
+        Hodnocení: 4.8
+        Dostupnost: Rozbaleno - skladem
+        URL: https://www.alza.cz/iphone-13-pro-max-128gb-zelena-levne-d7104113.htm
+
+    Název: iPhone 13 512GB modrá
+      Záznam:
+        Čas: 2024-12-30 12:04:21
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem 3 ks
+        URL: https://www.alza.cz/iphone-13?dq=6731123
+
+    Název: iPhone 13 128GB černá
+      Záznam:
+        Čas: 2024-12-30 13:06:12
+        Cena (Kč): 12990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13-128gb-cerna-d6731111.htm
+
+    Název: iPhone 13 128GB bílá
+      Záznam:
+        Čas: 2024-12-30 13:06:22
+        Cena (Kč): 12990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13?dq=6731110
+
+    Název: iPhone 13 512GB černá
+      Záznam:
+        Čas: 2024-12-30 13:06:30
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem 2 ks
+        URL: https://www.alza.cz/iphone-13?dq=6731121
+
+    Název: iPhone 13 512GB růžová
+      Záznam:
+        Čas: 2024-12-30 13:06:38
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13?dq=6731124
+
+    Název: iPhone 13 512GB červená
+      Záznam:
+        Čas: 2024-12-30 13:06:48
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13?dq=6731122
+
+    Název: iPhone 13 512GB zelená
+      Záznam:
+        Čas: 2024-12-30 13:07:03
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13?dq=7059004
+
+    Název: iPhone 13 128GB bílá
+      Záznam:
+        Čas: 2024-12-30 13:07:15
+        Cena (Kč): 12290
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-128gb-bila-bazar-d7372196.htm
+
+    Název: iPhone 13 128GB bílá
+      Záznam:
+        Čas: 2024-12-30 13:07:26
+        Cena (Kč): 12590
+        Hodnocení: 4.8
+        Dostupnost: Rozbaleno - skladem
+        URL: https://www.alza.cz/iphone-13-128gb-bila-levne-d6917872.htm
+
+    Název: iPhone 13 512GB černá
+      Záznam:
+        Čas: 2024-12-30 13:07:38
+        Cena (Kč): 18390
+        Hodnocení: 4.8
+        Dostupnost: Rozbaleno - skladem
+        URL: https://www.alza.cz/iphone-13-512gb-cerna-levne-d7340762.htm
+
+    Název: iPhone 13 Pro 256GB zelená
+      Záznam:
+        Čas: 2024-12-30 13:07:54
+        Cena (Kč): 30990
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-pro-256gb-zelena-bazar-d7605975.htm
+
+    Název: iPhone 13 Pro 256GB zlatá
+      Záznam:
+        Čas: 2024-12-30 13:08:00
+        Cena (Kč): 30490
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/gaming/iphone-13-pro-256gb-zlata-bazar-d7232468.htm
+
+    Název: iPhone 13 128GB růžová
+      Záznam:
+        Čas: 2024-12-30 13:08:11
+        Cena (Kč): 11490
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-128gb-ruzova-bazar-d7074594.htm
+
+    Název: iPhone 13 128GB modrá
+      Záznam:
+        Čas: 2024-12-30 13:08:20
+        Cena (Kč): 11490
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-128gb-modra-bazar-d7056445.htm
+
+    Název: iPhone 13 Mini 128GB černá
+      Záznam:
+        Čas: 2024-12-30 13:08:30
+        Cena (Kč): 16390
+        Hodnocení: 4.9
+        Dostupnost: Zánovní - skladem
+        URL: https://www.alza.cz/iphone-13-mini-128gb-cerna-sleva-d6777635.htm
+
+    Název: iPhone 13 Pro Max 128GB zelená
+      Záznam:
+        Čas: 2024-12-30 13:08:39
+        Cena (Kč): 27090
+        Hodnocení: 4.8
+        Dostupnost: Rozbaleno - skladem
+        URL: https://www.alza.cz/iphone-13-pro-max-128gb-zelena-levne-d7104113.htm
+
+    Název: iPhone 13 512GB modrá
+      Záznam:
+        Čas: 2024-12-30 13:08:54
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem 3 ks
+        URL: https://www.alza.cz/iphone-13?dq=6731123
+
+    Název: Google Pixel 8 8GB/256GB Hazel
+      Záznam:
+        Čas: 2024-12-30 13:09:07
+        Cena (Kč): 14490
+        Hodnocení: 4.699999999999999
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-8?dq=7964270
+
+    Název: Google Pixel 9 128GB Obsidian
+      Záznam:
+        Čas: 2024-12-30 13:09:18
+        Cena (Kč): 20390
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9?dq=12467155
+
+    Název: Google Pixel 9 256GB Obsidian
+      Záznam:
+        Čas: 2024-12-30 13:09:32
+        Cena (Kč): 22890
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9?dq=12467141
+
+    Název: Google Pixel 9 Pro 256GB Obsidian
+      Záznam:
+        Čas: 2024-12-30 13:09:39
+        Cena (Kč): 27890
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro?dq=12467149
+
+    Název: Google Pixel 8a 8GB/256GB Obsidian
+      Záznam:
+        Čas: 2024-12-30 13:09:54
+        Cena (Kč): 11990
+        Hodnocení: 4.699999999999999
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-8a?dq=12310089
+
+    Název: Google Pixel 9 Pro 128GB Obsidian
+      Záznam:
+        Čas: 2024-12-30 13:10:01
+        Cena (Kč): 25490
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro?dq=12467150
+
+    Název: Google Pixel 9 Pro 256GB Hazel
+      Záznam:
+        Čas: 2024-12-30 13:10:13
+        Cena (Kč): 27890
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro?dq=12467154
+
+    Název: Google Pixel 8a 8GB/128GB Bay
+      Záznam:
+        Čas: 2024-12-30 13:10:22
+        Cena (Kč): 9990
+        Hodnocení: 4.699999999999999
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-8a?dq=12310087
+
+    Název: Google Pixel 8 8GB/128GB Hazel
+      Záznam:
+        Čas: 2024-12-30 13:10:31
+        Cena (Kč): 12990
+        Hodnocení: 4.699999999999999
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-8?dq=7964264
+
+    Název: Google Pixel 8a 8GB/128GB Aloe
+      Záznam:
+        Čas: 2024-12-30 13:10:44
+        Cena (Kč): 9990
+        Hodnocení: 4.699999999999999
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-8a?dq=12310088
+
+    Název: Google Pixel 9 Pro 512GB Obsidian
+      Záznam:
+        Čas: 2024-12-30 13:10:54
+        Cena (Kč): 31390
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro?dq=12467163
+
+    Název: Google Pixel 9 Pro XL 512GB Obsidian
+      Záznam:
+        Čas: 2024-12-30 13:11:05
+        Cena (Kč): 33890
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro-xl?dq=12467136
+
+    Název: Google Pixel 9 Pro 128GB Hazel
+      Záznam:
+        Čas: 2024-12-30 13:11:18
+        Cena (Kč): 25390
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro?dq=12467165
+
+    Název: Google Pixel 8 Pro 12GB/128GB Obsidian
+      Záznam:
+        Čas: 2024-12-30 13:11:30
+        Cena (Kč): 15990
+        Hodnocení: 4.6000000000000005
+        Dostupnost: Skladem
+        URL: https://www.alza.cz/google-pixel-8-pro?dq=7964268
+
+    Název: Google Pixel 9 128GB Wintergreen
+      Záznam:
+        Čas: 2024-12-30 13:11:44
+        Cena (Kč): 20390
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9?dq=12467144
+
+    Název: Google Pixel 9 Pro XL 256GB Porcelain
+      Záznam:
+        Čas: 2024-12-30 13:11:51
+        Cena (Kč): 30390
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro-xl?dq=12467139
+
+    Název: Google Pixel 9 128GB Porcelain
+      Záznam:
+        Čas: 2024-12-30 13:12:06
+        Cena (Kč): 20390
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9?dq=12467140
+
+    Název: Google Pixel 9 128GB Peony
+      Záznam:
+        Čas: 2024-12-30 13:12:12
+        Cena (Kč): 20390
+        Hodnocení: 4.9
+        Dostupnost: Skladem 5 ks
+        URL: https://www.alza.cz/google-pixel-9?dq=12467147
+
+    Název: Google Pixel 9 Pro XL 128GB Hazel
+      Záznam:
+        Čas: 2024-12-30 13:12:27
+        Cena (Kč): 27890
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro-xl?dq=12467164
+
+    Název: Google Pixel 8 Pro 12GB/128GB Porcelain
+      Záznam:
+        Čas: 2024-12-30 13:12:38
+        Cena (Kč): 14990
+        Hodnocení: 4.6000000000000005
+        Dostupnost: Skladem
+        URL: https://www.alza.cz/google-pixel-8-pro?dq=7964271
+
+    Název: Google Pixel 9 256GB Wintergreen
+      Záznam:
+        Čas: 2024-12-30 13:12:52
+        Cena (Kč): 22890
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9?dq=12467156
+
+    Název: Google Pixel 9 Pro 128GB Porcelain
+      Záznam:
+        Čas: 2024-12-30 13:13:08
+        Cena (Kč): 25390
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro?dq=12467153
+
+    Název: Google Pixel 9 Pro 512GB Hazel
+      Záznam:
+        Čas: 2024-12-30 13:13:24
+        Cena (Kč): 31390
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro?dq=12467148
+
+    Název: Google Pixel 8 Pro 12GB/128GB Bay
+      Záznam:
+        Čas: 2024-12-30 13:13:40
+        Cena (Kč): 15990
+        Hodnocení: 4.6000000000000005
+        Dostupnost: Skladem
+        URL: https://www.alza.cz/google-pixel-8-pro?dq=7964267
+
+    Název: PlayStation 5 Pro
+      Záznam:
+        Čas: 2024-12-30 13:13:52
+        Cena (Kč): 20290
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/playstation-5-pro?dq=12543328
+
+    Název: PlayStation 5 (Slim) Digital Edition + Fortnite
+      Záznam:
+        Čas: 2024-12-30 13:14:07
+        Cena (Kč): 9990
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/playstation-5-slim-digital-edition-fortnite-d12653305.htm
+
+    Název: PlayStation 5 (Slim) + 2x DualSense Wireless Controller
+      Záznam:
+        Čas: 2024-12-30 13:14:14
+        Cena (Kč): 15390
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/playstation-5-slim-s-mechanikou?dq=9675155
+
+    Název: PlayStation 5 (Slim)
+      Záznam:
+        Čas: 2024-12-30 13:14:23
+        Cena (Kč): 13990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/playstation-5-slim-s-mechanikou?dq=8078676
+
+    Název: PlayStation 5 (Slim) + Fortnite
+      Záznam:
+        Čas: 2024-12-30 13:14:38
+        Cena (Kč): 11990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/playstation-5-slim-fortnite-d12653306.htm
+
+    Název: PlayStation 5 (Slim) Digital Edition + Just Dance
+      Záznam:
+        Čas: 2024-12-30 13:14:53
+        Cena (Kč): 10490
+        Hodnocení: 4.9
+        Dostupnost: Skladem
+        URL: https://www.alza.cz/gaming/playstation-5-digital-edition?dq=12736494
+
+    Název: PlayStation 5 (Slim) Digital Edition + 2TB SSD
+      Záznam:
+        Čas: 2024-12-30 13:15:05
+        Cena (Kč): 15990
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/playstation-5-digital-edition?dq=12501291
+
+    Název: PlayStation 5 (Slim) Digital Edition + 1TB SSD
+      Záznam:
+        Čas: 2024-12-30 13:15:14
+        Cena (Kč): 14490
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/playstation-5-digital-edition?dq=12501290
+
+    Název: PlayStation 5 (Slim) + 2x DualSense Wireless Controller
+      Záznam:
+        Čas: 2024-12-30 13:15:24
+        Cena (Kč): 14490
+        Hodnocení: 4.8
+        Dostupnost: Rozbaleno - skladem
+        URL: https://www.alza.cz/gaming/playstation-5-slim-2x-dualsense-wireless-controller-levne-d12087294.htm
+
+    Název: PlayStation 5 (Slim)
+      Záznam:
+        Čas: 2024-12-30 13:15:36
+        Cena (Kč): 11290
+        Hodnocení: 4.8
+        Dostupnost: Rozbaleno - skladem
+        URL: https://www.alza.cz/gaming/playstation-5-slim-levne-d8575778.htm
+
+    Název: PlayStation 5 (Slim) + 1TB SSD
+      Záznam:
+        Čas: 2024-12-30 13:15:44
+        Cena (Kč): 13790
+        Hodnocení: 4.8
+        Dostupnost: Rozbaleno - skladem
+        URL: https://www.alza.cz/gaming/playstation-5-slim-1tb-ssd-levne-d12329714.htm
+
+    Název: PlayStation 5
+      Záznam:
+        Čas: 2024-12-30 13:15:57
+        Cena (Kč): 12490
+        Hodnocení: 4.9
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/gaming/playstation-5-bazar-d6851857.htm
+
+    Název: PlayStation 5 + EA Sports FC 24
+      Záznam:
+        Čas: 2024-12-30 13:16:05
+        Cena (Kč): 15490
+        Hodnocení: 4.9
+        Dostupnost: Skladem 1 ks
+        URL: https://www.alza.cz/gaming/playstation-5?dq=7932119
+
+    Název: PlayStation 5 (Slim) + Star Wars Outlaws
+      Záznam:
+        Čas: 2024-12-30 13:16:11
+        Cena (Kč): 12990
+        Hodnocení: 4.8
+        Dostupnost: Skladem
+        URL: https://www.alza.cz/gaming/playstation-5-slim-s-mechanikou?dq=12710568
+
+    Název: iPhone 13 128GB bílá
+      Záznam:
+        Čas: 2025-01-02 17:39:59
+        Cena (Kč): 12990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13?dq=6731110
+
+    Název: iPhone 13 128GB černá
+      Záznam:
+        Čas: 2025-01-02 17:40:09
+        Cena (Kč): 12990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13-128gb-cerna-d6731111.htm
+
+    Název: iPhone 13 512GB růžová
+      Záznam:
+        Čas: 2025-01-02 17:40:17
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13?dq=6731124
+
+    Název: iPhone 13 512GB červená
+      Záznam:
+        Čas: 2025-01-02 17:40:28
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13?dq=6731122
+
+    Název: iPhone 13 512GB zelená
+      Záznam:
+        Čas: 2025-01-02 17:40:41
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem 5 ks
+        URL: https://www.alza.cz/iphone-13?dq=7059004
+
+    Název: iPhone 13 128GB bílá
+      Záznam:
+        Čas: 2025-01-02 17:40:48
+        Cena (Kč): 12490
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-128gb-bila-bazar-d7372196.htm
+
+    Název: iPhone 13 Pro Max 256GB zelená
+      Záznam:
+        Čas: 2025-01-02 17:40:58
+        Cena (Kč): 23090
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-pro-max-256gb-zelena-bazar-d7675875.htm
+
+    Název: iPhone 13 Pro Max 512GB modrá
+      Záznam:
+        Čas: 2025-01-02 17:41:08
+        Cena (Kč): 29190
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-pro-max-512gb-modra-bazar-d7653060.htm
+
+    Název: iPhone 13 Pro 256GB zelená
+      Záznam:
+        Čas: 2025-01-02 17:41:16
+        Cena (Kč): 30690
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-pro-256gb-zelena-bazar-d7605975.htm
+
+    Název: iPhone 13 Pro 256GB zlatá
+      Záznam:
+        Čas: 2025-01-02 17:41:28
+        Cena (Kč): 30190
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/gaming/iphone-13-pro-256gb-zlata-bazar-d7232468.htm
+
+    Název: iPhone 13 128GB růžová
+      Záznam:
+        Čas: 2025-01-02 17:41:35
+        Cena (Kč): 12890
+        Hodnocení: 4.8
+        Dostupnost: Zánovní - skladem
+        URL: https://www.alza.cz/iphone-13-128gb-ruzova-sleva-d6995503.htm
+
+    Název: iPhone 13 Mini 128GB černá
+      Záznam:
+        Čas: 2025-01-02 17:41:47
+        Cena (Kč): 16390
+        Hodnocení: 4.9
+        Dostupnost: Zánovní - skladem
+        URL: https://www.alza.cz/iphone-13-mini-128gb-cerna-sleva-d6777635.htm
+
+    Název: iPhone 13 Pro Max 128GB zelená
+      Záznam:
+        Čas: 2025-01-02 17:42:00
+        Cena (Kč): 27090
+        Hodnocení: 4.8
+        Dostupnost: Rozbaleno - skladem
+        URL: https://www.alza.cz/iphone-13-pro-max-128gb-zelena-levne-d7104113.htm
+
+    Název: Google Pixel 8 8GB/256GB Hazel
+      Záznam:
+        Čas: 2025-01-02 17:42:17
+        Cena (Kč): 14490
+        Hodnocení: 4.699999999999999
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-8?dq=7964270
+
+    Název: Google Pixel 9 128GB Obsidian
+      Záznam:
+        Čas: 2025-01-02 17:42:25
+        Cena (Kč): 19690
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9?dq=12467155
+
+    Název: Google Pixel 9 256GB Obsidian
+      Záznam:
+        Čas: 2025-01-02 17:42:39
+        Cena (Kč): 22890
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9?dq=12467141
+
+    Název: Google Pixel 9 Pro 256GB Hazel
+      Záznam:
+        Čas: 2025-01-02 17:42:50
+        Cena (Kč): 26499
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro?dq=12467154
+
+    Název: Google Pixel 9 Pro 256GB Obsidian
+      Záznam:
+        Čas: 2025-01-02 17:42:58
+        Cena (Kč): 26499
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro?dq=12467149
+
+    Název: Google Pixel 8a 8GB/256GB Obsidian
+      Záznam:
+        Čas: 2025-01-02 17:43:05
+        Cena (Kč): 11990
+        Hodnocení: 4.699999999999999
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-8a?dq=12310089
+
+    Název: Google Pixel 9 Pro 128GB Obsidian
+      Záznam:
+        Čas: 2025-01-02 17:43:16
+        Cena (Kč): 25390
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro?dq=12467150
+
+    Název: Google Pixel 8 8GB/128GB Hazel
+      Záznam:
+        Čas: 2025-01-02 17:43:27
+        Cena (Kč): 12990
+        Hodnocení: 4.699999999999999
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-8?dq=7964264
+
+    Název: Google Pixel 8a 8GB/128GB Aloe
+      Záznam:
+        Čas: 2025-01-02 17:43:36
+        Cena (Kč): 9990
+        Hodnocení: 4.699999999999999
+        Dostupnost: Skladem 1 ks
+        URL: https://www.alza.cz/google-pixel-8a?dq=12310088
+
+    Název: Google Pixel 8 Pro 12GB/128GB Obsidian
+      Záznam:
+        Čas: 2025-01-02 17:43:46
+        Cena (Kč): 15990
+        Hodnocení: 4.6000000000000005
+        Dostupnost: Skladem
+        URL: https://www.alza.cz/google-pixel-8-pro?dq=7964268
+
+    Název: Google Pixel 8 Pro 12GB/128GB Porcelain
+      Záznam:
+        Čas: 2025-01-02 17:43:58
+        Cena (Kč): 14990
+        Hodnocení: 4.6000000000000005
+        Dostupnost: Skladem
+        URL: https://www.alza.cz/google-pixel-8-pro?dq=7964271
+
+    Název: Google Pixel 9 Pro XL 128GB Hazel
+      Záznam:
+        Čas: 2025-01-02 17:44:12
+        Cena (Kč): 26499
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro-xl?dq=12467164
+
+    Název: Google Pixel 9 128GB Wintergreen
+      Záznam:
+        Čas: 2025-01-02 17:44:28
+        Cena (Kč): 19690
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9?dq=12467144
+
+    Název: Google Pixel 9 Pro XL 512GB Obsidian
+      Záznam:
+        Čas: 2025-01-02 17:44:40
+        Cena (Kč): 32690
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro-xl?dq=12467136
+
+    Název: Google Pixel 9 Pro 128GB Hazel
+      Záznam:
+        Čas: 2025-01-02 17:44:54
+        Cena (Kč): 25390
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro?dq=12467165
+
+    Název: Google Pixel 9 256GB Wintergreen
+      Záznam:
+        Čas: 2025-01-02 17:45:03
+        Cena (Kč): 22890
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9?dq=12467156
+
+    Název: Google Pixel 9 Pro 512GB Hazel
+      Záznam:
+        Čas: 2025-01-02 17:45:11
+        Cena (Kč): 30190
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro?dq=12467148
+
+    Název: Google Pixel 9 128GB Porcelain
+      Záznam:
+        Čas: 2025-01-02 17:45:21
+        Cena (Kč): 19690
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9?dq=12467140
+
+    Název: Google Pixel 9 Pro 512GB Obsidian
+      Záznam:
+        Čas: 2025-01-02 17:45:30
+        Cena (Kč): 30190
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro?dq=12467163
+
+    Název: Google Pixel 9 256GB Porcelain
+      Záznam:
+        Čas: 2025-01-02 17:45:41
+        Cena (Kč): 22890
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9?dq=12467151
+
+    Název: Google Pixel 8 Pro 12GB/128GB Bay
+      Záznam:
+        Čas: 2025-01-02 17:45:51
+        Cena (Kč): 15990
+        Hodnocení: 4.6000000000000005
+        Dostupnost: Skladem
+        URL: https://www.alza.cz/google-pixel-8-pro?dq=7964267
+
+    Název: Google Pixel 9 128GB Peony
+      Záznam:
+        Čas: 2025-01-02 17:46:01
+        Cena (Kč): 19690
+        Hodnocení: 4.9
+        Dostupnost: Skladem 2 ks
+        URL: https://www.alza.cz/google-pixel-9?dq=12467147
+
+    Název: Google Pixel 8a 8GB/128GB Obsidian
+      Záznam:
+        Čas: 2025-01-02 17:46:13
+        Cena (Kč): 9990
+        Hodnocení: 4.699999999999999
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-8a?dq=12310086
+
+    Název: Google Pixel 9 Pro XL 256GB Obsidian
+      Záznam:
+        Čas: 2025-01-02 17:46:20
+        Cena (Kč): 29690
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro-xl?dq=12467157
+
+    Název: PlayStation 5 Pro
+      Záznam:
+        Čas: 2025-01-02 17:46:32
+        Cena (Kč): 20290
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/playstation-5-pro?dq=12543328
+
+    Název: PlayStation 5 (Slim)
+      Záznam:
+        Čas: 2025-01-02 17:46:44
+        Cena (Kč): 13990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/playstation-5-slim-s-mechanikou?dq=8078676
+
+    Název: PlayStation 5 (Slim) + Fortnite
+      Záznam:
+        Čas: 2025-01-02 17:46:56
+        Cena (Kč): 13990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/playstation-5-slim-fortnite-d12653306.htm
+
+    Název: PlayStation 5 (Slim) Digital Edition + Fortnite
+      Záznam:
+        Čas: 2025-01-02 17:47:07
+        Cena (Kč): 11490
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/playstation-5-slim-digital-edition-fortnite-d12653305.htm
+
+    Název: PlayStation 5 (Slim) + 2x DualSense Wireless Controller
+      Záznam:
+        Čas: 2025-01-02 17:47:19
+        Cena (Kč): 15390
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/playstation-5-slim-s-mechanikou?dq=9675155
+
+    Název: PlayStation 5 (Slim) + Star Wars Outlaws
+      Záznam:
+        Čas: 2025-01-02 17:47:34
+        Cena (Kč): 12990
+        Hodnocení: 4.8
+        Dostupnost: Skladem
+        URL: https://www.alza.cz/gaming/playstation-5-slim-s-mechanikou?dq=12710568
+
+    Název: PlayStation 5 (Slim) Digital Edition + Just Dance
+      Záznam:
+        Čas: 2025-01-02 17:47:41
+        Cena (Kč): 10490
+        Hodnocení: 4.9
+        Dostupnost: Skladem
+        URL: https://www.alza.cz/gaming/playstation-5-digital-edition?dq=12736494
+
+    Název: PlayStation 5 (Slim) Digital Edition + 2TB SSD
+      Záznam:
+        Čas: 2025-01-02 17:47:57
+        Cena (Kč): 15990
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/playstation-5-digital-edition?dq=12501291
+
+    Název: PlayStation 5 (Slim) Digital Edition + 1TB SSD
+      Záznam:
+        Čas: 2025-01-02 17:48:09
+        Cena (Kč): 14490
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/playstation-5-digital-edition?dq=12501290
+
+    Název: PlayStation 5 (Slim) Digital Edition
+      Záznam:
+        Čas: 2025-01-02 17:48:18
+        Cena (Kč): 10690
+        Hodnocení: 4.9
+        Dostupnost: Rozbaleno - skladem
+        URL: https://www.alza.cz/gaming/playstation-5-slim-digital-edition-levne-d8581209.htm
+
+    Název: PlayStation 5 (Slim) Digital Edition
+      Záznam:
+        Čas: 2025-01-02 17:48:27
+        Cena (Kč): 11490
+        Hodnocení: 4.9
+        Dostupnost: Skladem 1 ks
+        URL: https://www.alza.cz/gaming/playstation-5-slim-digital-edition?dq=8078713
+
+    Název: PlayStation 5 + God of War Ragnarok
+      Záznam:
+        Čas: 2025-01-02 17:48:39
+        Cena (Kč): 12690
+        Hodnocení: 4.9
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/gaming/playstation-5-god-of-war-ragnarok-bazar-d7699454.htm
+
+    Název: iPhone 13 128GB bílá
+      Záznam:
+        Čas: 2025-01-02 20:43:17
+        Cena (Kč): 12990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13?dq=6731110
+
+    Název: iPhone 13 128GB bílá
+      Záznam:
+        Čas: 2025-01-03 09:53:38
+        Cena (Kč): 12990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13?dq=6731110
+
+    Název: iPhone 13 128GB černá
+      Záznam:
+        Čas: 2025-01-03 09:53:46
+        Cena (Kč): 12990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13-128gb-cerna-d6731111.htm
+
+    Název: iPhone 13 512GB růžová
+      Záznam:
+        Čas: 2025-01-03 09:53:58
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13?dq=6731124
+
+    Název: iPhone 13 512GB červená
+      Záznam:
+        Čas: 2025-01-03 09:54:13
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13?dq=6731122
+
+    Název: iPhone 13 512GB zelená
+      Záznam:
+        Čas: 2025-01-03 09:54:25
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem 5 ks
+        URL: https://www.alza.cz/iphone-13?dq=7059004
+
+    Název: iPhone 13 128GB bílá
+      Záznam:
+        Čas: 2025-01-03 09:54:36
+        Cena (Kč): 12490
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-128gb-bila-bazar-d7372196.htm
+
+    Název: iPhone 13 128GB bílá
+      Záznam:
+        Čas: 2025-01-03 09:54:44
+        Cena (Kč): 12690
+        Hodnocení: 4.8
+        Dostupnost: Rozbaleno - skladem
+        URL: https://www.alza.cz/iphone-13-128gb-bila-levne-d6917872.htm
+
+    Název: iPhone 13 Pro Max 256GB zelená
+      Záznam:
+        Čas: 2025-01-03 09:54:52
+        Cena (Kč): 22690
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-pro-max-256gb-zelena-bazar-d7675875.htm
+
+    Název: iPhone 13 mini 256GB modrá
+      Záznam:
+        Čas: 2025-01-03 09:55:01
+        Cena (Kč): 13990
+        Hodnocení: 4.9
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-mini-256gb-modra-bazar-d7655295.htm
+
+    Název: iPhone 13 Pro Max 512GB modrá
+      Záznam:
+        Čas: 2025-01-03 09:55:16
+        Cena (Kč): 28790
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-pro-max-512gb-modra-bazar-d7653060.htm
+
+    Název: iPhone 13 Pro 256GB zelená
+      Záznam:
+        Čas: 2025-01-03 09:55:30
+        Cena (Kč): 30390
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-pro-256gb-zelena-bazar-d7605975.htm
+
+    Název: iPhone 13 Pro 256GB zlatá
+      Záznam:
+        Čas: 2025-01-03 09:55:45
+        Cena (Kč): 29890
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/gaming/iphone-13-pro-256gb-zlata-bazar-d7232468.htm
+
+    Název: iPhone 13 128GB červená
+      Záznam:
+        Čas: 2025-01-03 09:55:55
+        Cena (Kč): 11490
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-128gb-cervena-bazar-d7140002.htm
+
+    Název: iPhone 13 128GB modrá
+      Záznam:
+        Čas: 2025-01-03 09:56:03
+        Cena (Kč): 11490
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-128gb-modra-bazar-d7056445.htm
+
+    Název: iPhone 13 mini 128GB bílá
+      Záznam:
+        Čas: 2025-01-03 09:56:19
+        Cena (Kč): 12190
+        Hodnocení: 4.9
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-mini-128gb-bila-bazar-d6968825.htm
+
+    Název: iPhone 13 128GB zelená
+      Záznam:
+        Čas: 2025-01-03 09:56:31
+        Cena (Kč): 11290
+        Hodnocení: 4.8
+        Dostupnost: Zánovní - skladem
+        URL: https://www.alza.cz/iphone-13-128gb-zelena-sleva-d7199178.htm
+
+    Název: iPhone 13 128GB červená
+      Záznam:
+        Čas: 2025-01-03 09:56:38
+        Cena (Kč): 12990
+        Hodnocení: 4.8
+        Dostupnost: Zánovní - skladem
+        URL: https://www.alza.cz/iphone-13-128gb-cervena-sleva-d7182120.htm
+
+    Název: iPhone 13 128GB růžová
+      Záznam:
+        Čas: 2025-01-03 09:56:52
+        Cena (Kč): 13790
+        Hodnocení: 4.8
+        Dostupnost: Rozbaleno - skladem
+        URL: https://www.alza.cz/iphone-13-128gb-ruzova-levne-d6907735.htm
+
+    Název: iPhone 13 512GB modrá
+      Záznam:
+        Čas: 2025-01-03 09:56:59
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem 1 ks
+        URL: https://www.alza.cz/iphone-13?dq=6731123
+
+    Název: Google Pixel 8 8GB/256GB Hazel
+      Záznam:
+        Čas: 2025-01-03 09:57:13
+        Cena (Kč): 14490
+        Hodnocení: 4.699999999999999
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-8?dq=7964270
+
+    Název: Google Pixel 9 256GB Obsidian
+      Záznam:
+        Čas: 2025-01-03 09:57:27
+        Cena (Kč): 22890
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9?dq=12467141
+
+    Název: Google Pixel 9 128GB Obsidian
+      Záznam:
+        Čas: 2025-01-03 09:57:42
+        Cena (Kč): 19690
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9?dq=12467155
+
+    Název: Google Pixel 9 Pro 256GB Obsidian
+      Záznam:
+        Čas: 2025-01-03 09:57:57
+        Cena (Kč): 26499
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro?dq=12467149
+
+    Název: Google Pixel 8a 8GB/256GB Obsidian
+      Záznam:
+        Čas: 2025-01-03 09:58:05
+        Cena (Kč): 11990
+        Hodnocení: 4.699999999999999
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-8a?dq=12310089
+
+    Název: Google Pixel 9 Pro 128GB Obsidian
+      Záznam:
+        Čas: 2025-01-03 09:58:20
+        Cena (Kč): 25390
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro?dq=12467150
+
+    Název: Google Pixel 9 Pro 256GB Hazel
+      Záznam:
+        Čas: 2025-01-03 09:58:31
+        Cena (Kč): 26499
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro?dq=12467154
+
+    Název: Google Pixel 8 8GB/128GB Hazel
+      Záznam:
+        Čas: 2025-01-03 09:58:47
+        Cena (Kč): 12990
+        Hodnocení: 4.699999999999999
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-8?dq=7964264
+
+    Název: Google Pixel 8 Pro 12GB/128GB Obsidian
+      Záznam:
+        Čas: 2025-01-03 09:59:01
+        Cena (Kč): 15990
+        Hodnocení: 4.6000000000000005
+        Dostupnost: Skladem
+        URL: https://www.alza.cz/google-pixel-8-pro?dq=7964268
+
+    Název: Google Pixel 8 Pro 12GB/128GB Porcelain
+      Záznam:
+        Čas: 2025-01-03 09:59:14
+        Cena (Kč): 14990
+        Hodnocení: 4.6000000000000005
+        Dostupnost: Skladem
+        URL: https://www.alza.cz/google-pixel-8-pro?dq=7964271
+
+    Název: Google Pixel 9 Pro XL 128GB Hazel
+      Záznam:
+        Čas: 2025-01-03 09:59:25
+        Cena (Kč): 26499
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro-xl?dq=12467164
+
+    Název: Google Pixel 9 128GB Wintergreen
+      Záznam:
+        Čas: 2025-01-03 09:59:32
+        Cena (Kč): 19690
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9?dq=12467144
+
+    Název: Google Pixel 9 Pro XL 512GB Obsidian
+      Záznam:
+        Čas: 2025-01-03 09:59:39
+        Cena (Kč): 32690
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro-xl?dq=12467136
+
+    Název: Google Pixel 9 Pro 128GB Hazel
+      Záznam:
+        Čas: 2025-01-03 09:59:51
+        Cena (Kč): 25390
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro?dq=12467165
+
+    Název: Google Pixel 9 256GB Wintergreen
+      Záznam:
+        Čas: 2025-01-03 10:00:01
+        Cena (Kč): 22890
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9?dq=12467156
+
+    Název: Google Pixel 9 128GB Porcelain
+      Záznam:
+        Čas: 2025-01-03 10:00:14
+        Cena (Kč): 19690
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9?dq=12467140
+
+    Název: Google Pixel 8 Pro 12GB/128GB Bay
+      Záznam:
+        Čas: 2025-01-03 10:00:29
+        Cena (Kč): 15990
+        Hodnocení: 4.6000000000000005
+        Dostupnost: Skladem
+        URL: https://www.alza.cz/google-pixel-8-pro?dq=7964267
+
+    Název: Google Pixel 9 128GB Peony
+      Záznam:
+        Čas: 2025-01-03 10:00:37
+        Cena (Kč): 19690
+        Hodnocení: 4.9
+        Dostupnost: Skladem 2 ks
+        URL: https://www.alza.cz/google-pixel-9?dq=12467147
+
+    Název: Google Pixel 9 256GB Porcelain
+      Záznam:
+        Čas: 2025-01-03 10:00:45
+        Cena (Kč): 22890
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9?dq=12467151
+
+    Název: Google Pixel 9 Pro 512GB Obsidian
+      Záznam:
+        Čas: 2025-01-03 10:00:57
+        Cena (Kč): 30190
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro?dq=12467163
+
+    Název: Google Pixel 9 Pro XL 256GB Obsidian
+      Záznam:
+        Čas: 2025-01-03 10:01:09
+        Cena (Kč): 29690
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro-xl?dq=12467157
+
+    Název: Google Pixel 8a 8GB/128GB Obsidian
+      Záznam:
+        Čas: 2025-01-03 10:01:17
+        Cena (Kč): 9990
+        Hodnocení: 4.699999999999999
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-8a?dq=12310086
+
+    Název: Google Pixel 8 Pro 12GB/512GB Obsidian
+      Záznam:
+        Čas: 2025-01-03 10:01:28
+        Cena (Kč): 22490
+        Hodnocení: 4.6000000000000005
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-8-pro?dq=7964275
+
+    Název: Google Pixel 9 Pro 512GB Hazel
+      Záznam:
+        Čas: 2025-01-03 10:01:36
+        Cena (Kč): 30190
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro?dq=12467148
+
+    Název: PlayStation 5 Pro
+      Záznam:
+        Čas: 2025-01-03 10:01:51
+        Cena (Kč): 20290
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/playstation-5-pro?dq=12543328
+
+    Název: PlayStation 5 (Slim)
+      Záznam:
+        Čas: 2025-01-03 10:02:07
+        Cena (Kč): 13990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/playstation-5-slim-s-mechanikou?dq=8078676
+
+    Název: PlayStation 5 (Slim) + Fortnite
+      Záznam:
+        Čas: 2025-01-03 10:02:20
+        Cena (Kč): 13990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/playstation-5-slim-fortnite-d12653306.htm
+
+    Název: PlayStation 5 (Slim) Digital Edition + Fortnite
+      Záznam:
+        Čas: 2025-01-03 10:02:30
+        Cena (Kč): 11490
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/playstation-5-slim-digital-edition-fortnite-d12653305.htm
+
+    Název: PlayStation 5 (Slim) + 2x DualSense Wireless Controller
+      Záznam:
+        Čas: 2025-01-03 10:02:44
+        Cena (Kč): 15390
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/playstation-5-slim-s-mechanikou?dq=9675155
+
+    Název: PlayStation 5 (Slim) + Star Wars Outlaws
+      Záznam:
+        Čas: 2025-01-03 10:02:51
+        Cena (Kč): 12990
+        Hodnocení: 4.8
+        Dostupnost: Skladem
+        URL: https://www.alza.cz/gaming/playstation-5-slim-s-mechanikou?dq=12710568
+
+    Název: PlayStation 5 (Slim) Digital Edition + Just Dance
+      Záznam:
+        Čas: 2025-01-03 10:03:06
+        Cena (Kč): 10490
+        Hodnocení: 4.9
+        Dostupnost: Skladem
+        URL: https://www.alza.cz/gaming/playstation-5-digital-edition?dq=12736494
+
+    Název: PlayStation 5 (Slim) Digital Edition + 2TB SSD
+      Záznam:
+        Čas: 2025-01-03 10:03:16
+        Cena (Kč): 15990
+        Hodnocení: 4.9
+        Dostupnost: Skladem 5 ks
+        URL: https://www.alza.cz/gaming/playstation-5-digital-edition?dq=12501291
+
+    Název: PlayStation 5 (Slim) Digital Edition + 1TB SSD
+      Záznam:
+        Čas: 2025-01-03 10:03:28
+        Cena (Kč): 14490
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/playstation-5-digital-edition?dq=12501290
+
+    Název: PlayStation 5 (Slim) + 2x DualSense Wireless Controller
+      Záznam:
+        Čas: 2025-01-03 10:03:43
+        Cena (Kč): 14490
+        Hodnocení: 4.8
+        Dostupnost: Rozbaleno - skladem
+        URL: https://www.alza.cz/gaming/playstation-5-slim-2x-dualsense-wireless-controller-levne-d12087294.htm
+
+    Název: PlayStation 5 + God of War Ragnarok
+      Záznam:
+        Čas: 2025-01-03 10:03:59
+        Cena (Kč): 12690
+        Hodnocení: 4.9
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/gaming/playstation-5-god-of-war-ragnarok-bazar-d7699454.htm
+
+    Název: iPhone 13 128GB bílá
+      Záznam:
+        Čas: 2025-01-03 10:30:05
+        Cena (Kč): 12990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13?dq=6731110
+
+    Název: iPhone 13 128GB černá
+      Záznam:
+        Čas: 2025-01-03 10:30:21
+        Cena (Kč): 12990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13-128gb-cerna-d6731111.htm
+
+    Název: iPhone 13 128GB bílá
+      Záznam:
+        Čas: 2025-01-03 13:08:14
+        Cena (Kč): 12990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13?dq=6731110
+
+    Název: iPhone 13 128GB černá
+      Záznam:
+        Čas: 2025-01-03 13:08:22
+        Cena (Kč): 12990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13-128gb-cerna-d6731111.htm
+
+    Název: iPhone 13 512GB růžová
+      Záznam:
+        Čas: 2025-01-03 13:08:37
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13?dq=6731124
+
+    Název: iPhone 13 512GB červená
+      Záznam:
+        Čas: 2025-01-03 13:08:50
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/iphone-13?dq=6731122
+
+    Název: iPhone 13 512GB zelená
+      Záznam:
+        Čas: 2025-01-03 13:09:02
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem 5 ks
+        URL: https://www.alza.cz/iphone-13?dq=7059004
+
+    Název: iPhone 13 128GB bílá
+      Záznam:
+        Čas: 2025-01-03 13:09:18
+        Cena (Kč): 12490
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-128gb-bila-bazar-d7372196.htm
+
+    Název: iPhone 13 Pro Max 256GB zelená
+      Záznam:
+        Čas: 2025-01-03 13:09:34
+        Cena (Kč): 22690
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-pro-max-256gb-zelena-bazar-d7675875.htm
+
+    Název: iPhone 13 mini 256GB modrá
+      Záznam:
+        Čas: 2025-01-03 13:09:40
+        Cena (Kč): 13990
+        Hodnocení: 4.9
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-mini-256gb-modra-bazar-d7655295.htm
+
+    Název: iPhone 13 Pro Max 512GB modrá
+      Záznam:
+        Čas: 2025-01-03 13:09:52
+        Cena (Kč): 28790
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-pro-max-512gb-modra-bazar-d7653060.htm
+
+    Název: iPhone 13 Pro 256GB zelená
+      Záznam:
+        Čas: 2025-01-03 13:10:05
+        Cena (Kč): 30390
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-pro-256gb-zelena-bazar-d7605975.htm
+
+    Název: iPhone 13 Pro Max 128GB zelená
+      Záznam:
+        Čas: 2025-01-03 13:10:15
+        Cena (Kč): 22390
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-pro-max-128gb-zelena-bazar-d7433500.htm
+
+    Název: iPhone 13 Pro 256GB zlatá
+      Záznam:
+        Čas: 2025-01-03 13:10:29
+        Cena (Kč): 29890
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/gaming/iphone-13-pro-256gb-zlata-bazar-d7232468.htm
+
+    Název: iPhone 13 128GB červená
+      Záznam:
+        Čas: 2025-01-03 13:10:37
+        Cena (Kč): 11490
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-128gb-cervena-bazar-d7140002.htm
+
+    Název: iPhone 13 128GB modrá
+      Záznam:
+        Čas: 2025-01-03 13:10:44
+        Cena (Kč): 11490
+        Hodnocení: 4.8
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-128gb-modra-bazar-d7056445.htm
+
+    Název: iPhone 13 mini 128GB bílá
+      Záznam:
+        Čas: 2025-01-03 13:10:58
+        Cena (Kč): 12190
+        Hodnocení: 4.9
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/iphone-13-mini-128gb-bila-bazar-d6968825.htm
+
+    Název: iPhone 13 128GB zelená
+      Záznam:
+        Čas: 2025-01-03 13:11:13
+        Cena (Kč): 11290
+        Hodnocení: 4.8
+        Dostupnost: Zánovní - skladem
+        URL: https://www.alza.cz/iphone-13-128gb-zelena-sleva-d7199178.htm
+
+    Název: iPhone 13 128GB červená
+      Záznam:
+        Čas: 2025-01-03 13:11:22
+        Cena (Kč): 12990
+        Hodnocení: 4.8
+        Dostupnost: Zánovní - skladem
+        URL: https://www.alza.cz/iphone-13-128gb-cervena-sleva-d7182120.htm
+
+    Název: iPhone 13 128GB růžová
+      Záznam:
+        Čas: 2025-01-03 13:11:31
+        Cena (Kč): 13790
+        Hodnocení: 4.8
+        Dostupnost: Rozbaleno - skladem
+        URL: https://www.alza.cz/iphone-13-128gb-ruzova-levne-d6907735.htm
+
+    Název: iPhone 13 512GB modrá
+      Záznam:
+        Čas: 2025-01-03 13:11:40
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Skladem 1 ks
+        URL: https://www.alza.cz/iphone-13?dq=6731123
+
+    Název: Google Pixel 8 8GB/256GB Hazel
+      Záznam:
+        Čas: 2025-01-03 13:11:57
+        Cena (Kč): 14490
+        Hodnocení: 4.699999999999999
+        Dostupnost: Skladem 5 ks
+        URL: https://www.alza.cz/google-pixel-8?dq=7964270
+
+    Název: Google Pixel 9 256GB Obsidian
+      Záznam:
+        Čas: 2025-01-03 13:12:11
+        Cena (Kč): 22890
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9?dq=12467141
+
+    Název: Google Pixel 9 128GB Obsidian
+      Záznam:
+        Čas: 2025-01-03 13:12:22
+        Cena (Kč): 19690
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9?dq=12467155
+
+    Název: Google Pixel 9 Pro 256GB Obsidian
+      Záznam:
+        Čas: 2025-01-03 13:12:39
+        Cena (Kč): 26499
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro?dq=12467149
+
+    Název: Google Pixel 8a 8GB/256GB Obsidian
+      Záznam:
+        Čas: 2025-01-03 13:12:52
+        Cena (Kč): 11990
+        Hodnocení: 4.699999999999999
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-8a?dq=12310089
+
+    Název: Google Pixel 9 Pro 128GB Obsidian
+      Záznam:
+        Čas: 2025-01-03 13:13:02
+        Cena (Kč): 25390
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro?dq=12467150
+
+    Název: Google Pixel 9 Pro 256GB Hazel
+      Záznam:
+        Čas: 2025-01-03 13:13:17
+        Cena (Kč): 26499
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro?dq=12467154
+
+    Název: Google Pixel 8 8GB/128GB Hazel
+      Záznam:
+        Čas: 2025-01-03 13:13:26
+        Cena (Kč): 12990
+        Hodnocení: 4.699999999999999
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-8?dq=7964264
+
+    Název: Google Pixel 8 Pro 12GB/128GB Obsidian
+      Záznam:
+        Čas: 2025-01-03 13:13:36
+        Cena (Kč): 15990
+        Hodnocení: 4.6000000000000005
+        Dostupnost: Skladem
+        URL: https://www.alza.cz/google-pixel-8-pro?dq=7964268
+
+    Název: Google Pixel 8 Pro 12GB/128GB Porcelain
+      Záznam:
+        Čas: 2025-01-03 13:13:44
+        Cena (Kč): 14990
+        Hodnocení: 4.6000000000000005
+        Dostupnost: Skladem
+        URL: https://www.alza.cz/google-pixel-8-pro?dq=7964271
+
+    Název: Google Pixel 9 Pro XL 128GB Hazel
+      Záznam:
+        Čas: 2025-01-03 13:13:59
+        Cena (Kč): 26499
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro-xl?dq=12467164
+
+    Název: Google Pixel 9 128GB Wintergreen
+      Záznam:
+        Čas: 2025-01-03 13:14:15
+        Cena (Kč): 19690
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9?dq=12467144
+
+    Název: Google Pixel 9 Pro XL 512GB Obsidian
+      Záznam:
+        Čas: 2025-01-03 13:14:28
+        Cena (Kč): 32690
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro-xl?dq=12467136
+
+    Název: Google Pixel 9 Pro 128GB Hazel
+      Záznam:
+        Čas: 2025-01-03 13:14:39
+        Cena (Kč): 25390
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro?dq=12467165
+
+    Název: Google Pixel 9 256GB Wintergreen
+      Záznam:
+        Čas: 2025-01-03 13:14:51
+        Cena (Kč): 22890
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9?dq=12467156
+
+    Název: Google Pixel 9 128GB Porcelain
+      Záznam:
+        Čas: 2025-01-03 13:15:02
+        Cena (Kč): 19690
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9?dq=12467140
+
+    Název: Google Pixel 8 Pro 12GB/128GB Bay
+      Záznam:
+        Čas: 2025-01-03 13:15:17
+        Cena (Kč): 15990
+        Hodnocení: 4.6000000000000005
+        Dostupnost: Skladem
+        URL: https://www.alza.cz/google-pixel-8-pro?dq=7964267
+
+    Název: Google Pixel 9 128GB Peony
+      Záznam:
+        Čas: 2025-01-03 13:15:25
+        Cena (Kč): 19690
+        Hodnocení: 4.9
+        Dostupnost: Skladem 2 ks
+        URL: https://www.alza.cz/google-pixel-9?dq=12467147
+
+    Název: Google Pixel 9 256GB Porcelain
+      Záznam:
+        Čas: 2025-01-03 13:15:34
+        Cena (Kč): 22890
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9?dq=12467151
+
+    Název: Google Pixel 9 Pro 512GB Obsidian
+      Záznam:
+        Čas: 2025-01-03 13:15:43
+        Cena (Kč): 30190
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro?dq=12467163
+
+    Název: Google Pixel 9 Pro XL 256GB Obsidian
+      Záznam:
+        Čas: 2025-01-03 13:15:58
+        Cena (Kč): 29690
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro-xl?dq=12467157
+
+    Název: Google Pixel 8a 8GB/128GB Obsidian
+      Záznam:
+        Čas: 2025-01-03 13:16:07
+        Cena (Kč): 9990
+        Hodnocení: 4.699999999999999
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-8a?dq=12310086
+
+    Název: Google Pixel 8 Pro 12GB/512GB Obsidian
+      Záznam:
+        Čas: 2025-01-03 13:16:22
+        Cena (Kč): 22490
+        Hodnocení: 4.6000000000000005
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-8-pro?dq=7964275
+
+    Název: Google Pixel 9 Pro 512GB Hazel
+      Záznam:
+        Čas: 2025-01-03 13:16:30
+        Cena (Kč): 30190
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/google-pixel-9-pro?dq=12467148
+
+    Název: Nintendo Switch Joy-Con ovladače Neon Red/Neon Blue
+      Záznam:
+        Čas: 2025-01-03 13:16:40
+        Cena (Kč): 1699
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/nintendo-switch-joy-con-ovladace-neon-red-neon-blue-d4662668.htm
+
+    Název: Ring Fit Adventure - Nintendo Switch
+      Záznam:
+        Čas: 2025-01-03 13:16:50
+        Cena (Kč): 1799
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/nintendo-switch-ring-fit-adventure-d5673775.htm
+
+    Název: The Legend of Zelda: Breath of the Wild - Nintendo Switch
+      Záznam:
+        Čas: 2025-01-03 13:17:01
+        Cena (Kč): 1599
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-d4662699.htm
+
+    Název: Animal Crossing: New Horizons - Nintendo Switch
+      Záznam:
+        Čas: 2025-01-03 13:17:13
+        Cena (Kč): 1189
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/animal-crossing-new-horizons?dq=5755353
+
+    Název: Super Mario Odyssey - Nintendo Switch
+      Záznam:
+        Čas: 2025-01-03 13:17:26
+        Cena (Kč): 1189
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/super-mario-odyssey-nintendo-switch-d4798849.htm
+
+    Název: Luigis Mansion 3 - Nintendo Switch
+      Záznam:
+        Čas: 2025-01-03 13:17:34
+        Cena (Kč): 1189
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/luigis-mansion-3-nintendo-switch-d5630099.htm
+
+    Název: New Super Mario Bros U Deluxe - Nintendo Switch
+      Záznam:
+        Čas: 2025-01-03 13:17:44
+        Cena (Kč): 1199
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/new-super-mario-bros-u-deluxe-nintendo-switch-d5484155.htm
+
+    Název: Nintendo Switch - Neon Red&Blue Joy-Con
+      Záznam:
+        Čas: 2025-01-03 13:17:56
+        Cena (Kč): 7290
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/nintendo-switch?dq=5659498
+
+    Název: Nintendo Switch Pro Controller
+      Záznam:
+        Čas: 2025-01-03 13:18:04
+        Cena (Kč): 1699
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/nintendo-switch-pro-controller-d4662706.htm
+
+    Název: Nintendo Switch AC Adapter
+      Záznam:
+        Čas: 2025-01-03 13:18:12
+        Cena (Kč): 899
+        Hodnocení: 5.0
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/nintendo-switch-ac-adapter-d4662705.htm
+
+    Název: Nintendo Switch Dock Set
+      Záznam:
+        Čas: 2025-01-03 13:18:26
+        Cena (Kč): 1989
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/nintendo-switch-dock-set-d4953482.htm
+
+    Název: Nintendo Switch Joy-Con Pair Blue/Neon Yellow
+      Záznam:
+        Čas: 2025-01-03 13:18:37
+        Cena (Kč): 1699
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/nintendo-switch-joy-con-ovladace-blue-neon-yellow-d5851085.htm
+
+    Název: Nintendo Switch Joy-Con Pair Neon Green/Neon Pink
+      Záznam:
+        Čas: 2025-01-03 13:18:53
+        Cena (Kč): 1699
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/nintendo-switch-joy-con-ovladace-neon-green-neon-pink-d5077315.htm
+
+    Název: Nintendo Switch Joy-Con Pair Neon Purple/Neon Orange
+      Záznam:
+        Čas: 2025-01-03 13:19:03
+        Cena (Kč): 1799
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/nintendo-switch-joy-con-ovladace-neon-purple-neon-orange-d5851132.htm
+
+    Název: Nintendo Switch Lite Flip Cover & Screen Protector
+      Záznam:
+        Čas: 2025-01-03 13:19:15
+        Cena (Kč): 759
+        Hodnocení: 4.8
+        Dostupnost: Skladem
+        URL: https://www.alza.cz/gaming/nintendo-switch-lite-flip-cover-screen-protector-d5856842.htm
+
+    Název: Nintendo Switch - Grey Joy-Con
+      Záznam:
+        Čas: 2025-01-03 13:19:24
+        Cena (Kč): 7290
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/nintendo-switch?dq=5659497
+
+    Název: Pokémon Shield/Pokémon Sword Expansion Pass - Nintendo Switch Digital
+      Záznam:
+        Čas: 2025-01-03 13:19:37
+        Cena (Kč): 876
+        Hodnocení: 5.0
+        Dostupnost: Ihned ke stažení
+        URL: https://www.alza.cz/media/pokemon-shield-pokemon-sword-expansion-pass-nintendo-switch-digital-d5866846.htm
+
+    Název: Pokémon Shield - Nintendo Switch
+      Záznam:
+        Čas: 2025-01-03 13:19:47
+        Cena (Kč): 1299
+        Hodnocení: 4.699999999999999
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/pokemon-shield-nintendo-switch-d5557600.htm
+
+    Název: Kirby Star Allies - Nintendo Switch
+      Záznam:
+        Čas: 2025-01-03 13:19:55
+        Cena (Kč): 1399
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/kirby-star-allies-nintendo-switch-d5253743.htm
+
+    Název: Pokkén Tournament DX - Nintendo Switch
+      Záznam:
+        Čas: 2025-01-03 13:20:08
+        Cena (Kč): 1399
+        Hodnocení: 4.6000000000000005
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/pokken-tournament-dx-nintendo-switch-d5003658.htm
+
+    Název: Pikmin 3 Deluxe - Nintendo Switch
+      Záznam:
+        Čas: 2025-01-03 13:20:20
+        Cena (Kč): 1259
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/pikmin-3-deluxe-nintendo-switch-d6106248.htm
+
+    Název: Nintendo Switch Lite - Yellow
+      Záznam:
+        Čas: 2025-01-03 13:20:34
+        Cena (Kč): 5390
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/nintendo-switch-lite?dq=5638736
+
+    Název: The Legend Of Zelda: Links Awakening - Nintendo Switch
+      Záznam:
+        Čas: 2025-01-03 13:20:44
+        Cena (Kč): 1199
+        Hodnocení: 4.8
+        Dostupnost: Skladem 4 ks
+        URL: https://www.alza.cz/gaming/the-legend-of-zelda-links-awakening-nintendo-switch?dq=5553896
+
+    Název: Go Vacation - Nintendo Switch
+      Záznam:
+        Čas: 2025-01-03 13:21:00
+        Cena (Kč): 1265
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks u dodavatele
+        URL: https://www.alza.cz/gaming/go-vacation-nintendo-switch-d5357441.htm
+
+    Název: PlayStation 5 Pro
+      Záznam:
+        Čas: 2025-01-03 13:21:14
+        Cena (Kč): 20290
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/playstation-5-pro?dq=12543328
+
+    Název: PlayStation 5 (Slim)
+      Záznam:
+        Čas: 2025-01-03 13:21:24
+        Cena (Kč): 13990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/playstation-5-slim-s-mechanikou?dq=8078676
+
+    Název: PlayStation 5 (Slim) + Fortnite
+      Záznam:
+        Čas: 2025-01-03 13:21:39
+        Cena (Kč): 13990
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/playstation-5-slim-fortnite-d12653306.htm
+
+    Název: PlayStation 5 (Slim) Digital Edition + Fortnite
+      Záznam:
+        Čas: 2025-01-03 13:21:53
+        Cena (Kč): 11490
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/playstation-5-slim-digital-edition-fortnite-d12653305.htm
+
+    Název: PlayStation 5 (Slim) + 2x DualSense Wireless Controller
+      Záznam:
+        Čas: 2025-01-03 13:22:02
+        Cena (Kč): 15390
+        Hodnocení: 4.8
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/playstation-5-slim-s-mechanikou?dq=9675155
+
+    Název: PlayStation 5 (Slim) + Star Wars Outlaws
+      Záznam:
+        Čas: 2025-01-03 13:22:14
+        Cena (Kč): 12990
+        Hodnocení: 4.8
+        Dostupnost: Skladem
+        URL: https://www.alza.cz/gaming/playstation-5-slim-s-mechanikou?dq=12710568
+
+    Název: PlayStation 5 (Slim) Digital Edition + Just Dance
+      Záznam:
+        Čas: 2025-01-03 13:22:28
+        Cena (Kč): 10490
+        Hodnocení: 4.9
+        Dostupnost: Skladem
+        URL: https://www.alza.cz/gaming/playstation-5-digital-edition?dq=12736494
+
+    Název: PlayStation 5 (Slim) Digital Edition + 2TB SSD
+      Záznam:
+        Čas: 2025-01-03 13:22:38
+        Cena (Kč): 15990
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/playstation-5-digital-edition?dq=12501291
+
+    Název: PlayStation 5 (Slim) Digital Edition + 1TB SSD
+      Záznam:
+        Čas: 2025-01-03 13:22:51
+        Cena (Kč): 14490
+        Hodnocení: 4.9
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/gaming/playstation-5-digital-edition?dq=12501290
+
+    Název: PlayStation 5 (Slim) Digital Edition + Fortnite
+      Záznam:
+        Čas: 2025-01-03 13:23:06
+        Cena (Kč): 10090
+        Hodnocení: 4.9
+        Dostupnost: Rozbaleno - skladem
+        URL: https://www.alza.cz/gaming/playstation-5-slim-digital-edition-fortnite-levne-d12719408.htm
+
+    Název: PlayStation 5 + EA Sports FC 24
+      Záznam:
+        Čas: 2025-01-03 13:23:16
+        Cena (Kč): 15490
+        Hodnocení: 4.9
+        Dostupnost: Skladem 1 ks
+        URL: https://www.alza.cz/gaming/playstation-5?dq=7932119
+
+    Název: PlayStation 5 + God of War Ragnarok
+      Záznam:
+        Čas: 2025-01-03 13:23:23
+        Cena (Kč): 12690
+        Hodnocení: 4.9
+        Dostupnost: Použité - skladem
+        URL: https://www.alza.cz/gaming/playstation-5-god-of-war-ragnarok-bazar-d7699454.htm
+
+    Název: Ultrahuman Ring Air Raw Titanium vel. 9
+      Záznam:
+        Čas: 2025-01-03 13:23:33
+        Cena (Kč): 9490
+        Hodnocení: 4.2
+        Dostupnost: Skladem 2 ks
+        URL: https://www.alza.cz/ultrahuman-ring-air-raw-titanium-vel-9-d12310510.htm
+
+    Název: Ultrahuman Ring Air Matt Grey vel. 9
+      Záznam:
+        Čas: 2025-01-03 13:23:43
+        Cena (Kč): 9490
+        Hodnocení: 4.2
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/ultrahuman-ring-air?dq=7983157
+
+    Název: Ultrahuman Ring Air Sizing Kit
+      Záznam:
+        Čas: 2025-01-03 13:23:53
+        Cena (Kč): 249
+        Hodnocení: 4.6000000000000005
+        Dostupnost: Skladem > 10 ks
+        URL: https://www.alza.cz/ultrahuman-ring-air-sizing-kit-d7936694.htm
+
+    Název: Ultrahuman Ring Air Matt Grey vel. 12
+      Záznam:
+        Čas: 2025-01-03 13:24:01
+        Cena (Kč): 9490
+        Hodnocení: 4.2
+        Dostupnost: Skladem 1 ks
+        URL: https://www.alza.cz/ultrahuman-ring-air?dq=7983156
+
+    Název: Ultrahuman Ring Air Aster Black vel. 10
+      Záznam:
+        Čas: 2025-01-03 13:24:14
+        Cena (Kč): 9490
+        Hodnocení: 4.2
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/ultrahuman-ring-air?dq=7936563
+
+    Název: Ultrahuman Ring Air Aster Black vel. 11
+      Záznam:
+        Čas: 2025-01-03 13:24:28
+        Cena (Kč): 9490
+        Hodnocení: 4.2
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/ultrahuman-ring-air?dq=7936561
+
+    Název: Ultrahuman Ring Air Raw Titanium vel. 11
+      Záznam:
+        Čas: 2025-01-03 13:24:44
+        Cena (Kč): 9490
+        Hodnocení: 4.2
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/ultrahuman-ring-air-raw-titanium-vel-11-d12310502.htm
+
+    Název: Ultrahuman Ring Air Matt Grey vel. 6
+      Záznam:
+        Čas: 2025-01-03 13:24:56
+        Cena (Kč): 9490
+        Hodnocení: 4.2
+        Dostupnost: Skladem 4 ks
+        URL: https://www.alza.cz/ultrahuman-ring-air?dq=7983150
+
+    Název: Ultrahuman Ring Air Matt Grey vel. 11
+      Záznam:
+        Čas: 2025-01-03 13:25:05
+        Cena (Kč): 9490
+        Hodnocení: 4.2
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/ultrahuman-ring-air?dq=7983153
+
+    Název: Niceboy ONE Brushed black vel. 10
+      Záznam:
+        Čas: 2025-01-03 13:25:15
+        Cena (Kč): 1999
+        Hodnocení: 3.7
+        Dostupnost: Skladem 2 ks
+        URL: https://www.alza.cz/niceboy-one?dq=12635309
+
+    Název: Ultrahuman Ring Air Space Silver vel. 10
+      Záznam:
+        Čas: 2025-01-03 13:25:31
+        Cena (Kč): 9490
+        Hodnocení: 4.2
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/ultrahuman-ring-air?dq=7961444
+
+    Název: Ultrahuman Ring Air Raw Titanium vel. 12
+      Záznam:
+        Čas: 2025-01-03 13:25:39
+        Cena (Kč): 9490
+        Hodnocení: 4.2
+        Dostupnost: Skladem 3 ks
+        URL: https://www.alza.cz/ultrahuman-ring-air-raw-titanium-vel-12-d12310503.htm
+
+    Název: Carneo RING No.1 vel. 10
+      Záznam:
+        Čas: 2025-01-03 13:25:47
+        Cena (Kč): 2891
+        Hodnocení: 3.1
+        Dostupnost: Skladem 1 ks
+        URL: https://www.alza.cz/carneo-ring-no-1-vel-10-d12458750.htm
+
+    Název: Ultrahuman Ring Air Raw Titanium vel. 13
+      Záznam:
+        Čas: 2025-01-03 13:25:55
+        Cena (Kč): 9490
+        Hodnocení: 4.2
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/ultrahuman-ring-air-raw-titanium-vel-13-d12310504.htm
+
+    Název: Carneo RING No.1 vel. 9
+      Záznam:
+        Čas: 2025-01-03 13:26:05
+        Cena (Kč): 2891
+        Hodnocení: 3.1
+        Dostupnost: Skladem 1 ks
+        URL: https://www.alza.cz/carneo-ring-no-1-vel-9-d12458749.htm
+
+    Název: Ultrahuman Ring Air Space Silver vel. 13
+      Záznam:
+        Čas: 2025-01-03 13:26:17
+        Cena (Kč): 9490
+        Hodnocení: 4.2
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/ultrahuman-ring-air?dq=7961447
+
+    Název: Amazfit Helio Ring vel. 10
+      Záznam:
+        Čas: 2025-01-03 13:26:26
+        Cena (Kč): 5990
+        Hodnocení: 4.4
+        Dostupnost: Skladem 1 ks
+        URL: https://www.alza.cz/amazfit-helio-ring-vel-10-d12584640.htm
+
+    Název: Ultrahuman Ring Air Space Silver vel. 12
+      Záznam:
+        Čas: 2025-01-03 13:26:37
+        Cena (Kč): 9490
+        Hodnocení: 4.2
+        Dostupnost: Skladem 5 ks
+        URL: https://www.alza.cz/ultrahuman-ring-air?dq=7961451
+
+    Název: Amazfit Helio Ring vel. 8
+      Záznam:
+        Čas: 2025-01-03 13:26:52
+        Cena (Kč): 5990
+        Hodnocení: 4.4
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/amazfit-helio-ring-vel-8-d12584642.htm
+
+    Název: Ultrahuman Ring Air Raw Titanium vel. 6
+      Záznam:
+        Čas: 2025-01-03 13:27:08
+        Cena (Kč): 9490
+        Hodnocení: 4.2
+        Dostupnost: Skladem 1 ks
+        URL: https://www.alza.cz/ultrahuman-ring-air-raw-titanium-vel-6-d12310507.htm
+
+    Název: Ultrahuman Ring Air Raw Titanium vel. 14
+      Záznam:
+        Čas: 2025-01-03 13:27:24
+        Cena (Kč): 9490
+        Hodnocení: 4.2
+        Dostupnost: Skladem 1 ks
+        URL: https://www.alza.cz/ultrahuman-ring-air-raw-titanium-vel-14-d12310506.htm
+
+    Název: Ultrahuman Ring Air Space Silver vel. 5
+      Záznam:
+        Čas: 2025-01-03 13:27:40
+        Cena (Kč): 9490
+        Hodnocení: 4.2
+        Dostupnost: Skladem 2 ks
+        URL: https://www.alza.cz/ultrahuman-ring-air?dq=7961439
+
+    Název: Ultrahuman Ring Air Bionic Gold vel. 11
+      Záznam:
+        Čas: 2025-01-03 13:27:53
+        Cena (Kč): 9490
+        Hodnocení: 4.2
+        Dostupnost: Skladem > 5 ks
+        URL: https://www.alza.cz/ultrahuman-ring-air?dq=7961434
+
+    Název: Ultrahuman Ring Air Aster Black vel. 14
+      Záznam:
+        Čas: 2025-01-03 13:28:09
+        Cena (Kč): 9490
+        Hodnocení: 4.2
+        Dostupnost: Skladem 3 ks
+        URL: https://www.alza.cz/ultrahuman-ring-air?dq=7961432
+
+    Název: iPhone 13 128GB černá
+      Záznam:
+        Čas: 2025-01-21 09:28:54
+        Cena (Kč): 13490
+        Hodnocení: 4.8
+        Dostupnost: Neznámé
+        URL: https://www.alza.cz/iphone-13-128gb-cerna-d6731111.htm
+
+    Název: iPhone 13 128GB černá
+      Záznam:
+        Čas: 2025-01-21 22:46:05
+        Cena (Kč): 13490
+        Hodnocení: 4.8
+        Dostupnost: Neznámé
+        URL: https://www.alza.cz/iphone-13-128gb-cerna-d6731111.htm
+
+    Název: iPhone 13 128GB bílá
+      Záznam:
+        Čas: 2025-01-21 22:46:29
+        Cena (Kč): 13490
+        Hodnocení: 4.8
+        Dostupnost: Neznámé
+        URL: https://www.alza.cz/iphone-13?dq=6731110
+
+    Název: iPhone 13 512GB červená
+      Záznam:
+        Čas: 2025-01-21 22:46:52
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Neznámé
+        URL: https://www.alza.cz/iphone-13?dq=6731122
+
+    Název: iPhone 13 128GB bílá
+      Záznam:
+        Čas: 2025-01-21 22:47:13
+        Cena (Kč): 13390
+        Hodnocení: 4.8
+        Dostupnost: Neznámé
+        URL: https://www.alza.cz/iphone-13-128gb-bila-levne-d6917872.htm
+
+    Název: iPhone 13 128GB černá
+      Záznam:
+        Čas: 2025-01-22 20:35:54
+        Cena (Kč): 13490
+        Hodnocení: 4.8
+        Dostupnost: Neznámé
+        URL: https://www.alza.cz/iphone-13-128gb-cerna-d6731111.htm
+
+    Název: iPhone 13 128GB bílá
+      Záznam:
+        Čas: 2025-01-22 20:36:17
+        Cena (Kč): 13490
+        Hodnocení: 4.8
+        Dostupnost: Neznámé
+        URL: https://www.alza.cz/iphone-13?dq=6731110
+
+    Název: iPhone 13 512GB červená
+      Záznam:
+        Čas: 2025-01-22 20:36:42
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Neznámé
+        URL: https://www.alza.cz/iphone-13?dq=6731122
+
+    Název: iPhone 13 128GB černá
+      Záznam:
+        Čas: 2025-01-23 08:03:52
+        Cena (Kč): 13490
+        Hodnocení: 4.8
+        Dostupnost: Neznámé
+        URL: https://www.alza.cz/iphone-13-128gb-cerna-d6731111.htm
+
+    Název: iPhone 13 128GB černá
+      Záznam:
+        Čas: 2025-01-23 08:49:57
+        Cena (Kč): 12990
+        Hodnocení: 4.8
+        Dostupnost: Neznámé
+        URL: https://www.alza.cz/iphone-13-128gb-cerna-d6731111.htm
+
+    Název: iPhone 13 128GB bílá
+      Záznam:
+        Čas: 2025-01-23 08:50:21
+        Cena (Kč): 12990
+        Hodnocení: 4.8
+        Dostupnost: Neznámé
+        URL: https://www.alza.cz/iphone-13?dq=6731110
+
+    Název: iPhone 13 512GB červená
+      Záznam:
+        Čas: 2025-01-23 08:50:45
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Neznámé
+        URL: https://www.alza.cz/iphone-13?dq=6731122
+
+    Název: iPhone 13 128GB černá
+      Záznam:
+        Čas: 2025-01-23 08:51:10
+        Cena (Kč): 10990
+        Hodnocení: 4.8
+        Dostupnost: Neznámé
+        URL: https://www.alza.cz/iphone-13-128gb-cerna-bazar-d7063249.htm
+
+    Název: iPhone 13 128GB bílá
+      Záznam:
+        Čas: 2025-01-23 08:51:28
+        Cena (Kč): 12290
+        Hodnocení: 4.8
+        Dostupnost: Neznámé
+        URL: https://www.alza.cz/iphone-13-128gb-bila-levne-d6917872.htm
+
+    Název: iPhone 13 Pro Max 512GB modrá
+      Záznam:
+        Čas: 2025-01-23 08:51:48
+        Cena (Kč): 38690
+        Hodnocení: 4.8
+        Dostupnost: Neznámé
+        URL: https://www.alza.cz/iphone-13-pro-max-512gb-modra-bazar-d7653060.htm
+
+    Název: iPhone 13 Mini 128GB zelená
+      Záznam:
+        Čas: 2025-01-23 08:52:14
+        Cena (Kč): 16390
+        Hodnocení: 4.9
+        Dostupnost: Neznámé
+        URL: https://www.alza.cz/iphone-13-mini-128gb-zelena-bazar-d7427075.htm
+
+    Název: iPhone 13 Pro 256GB zlatá
+      Záznam:
+        Čas: 2025-01-23 08:52:33
+        Cena (Kč): 29890
+        Hodnocení: 4.8
+        Dostupnost: Neznámé
+        URL: https://www.alza.cz/iphone-13-pro-256gb-zlata-bazar-d7232468.htm
+
+    Název: iPhone 13 128GB černá
+      Záznam:
+        Čas: 2025-01-23 12:14:41
+        Cena (Kč): 12990
+        Hodnocení: 4.8
+        Dostupnost: Neznámé
+        URL: https://www.alza.cz/iphone-13-128gb-cerna-d6731111.htm
+
+    Název: iPhone 13 128GB bílá
+      Záznam:
+        Čas: 2025-01-23 12:15:02
+        Cena (Kč): 12990
+        Hodnocení: 4.8
+        Dostupnost: Neznámé
+        URL: https://www.alza.cz/iphone-13?dq=6731110
+
+    Název: iPhone 13 512GB červená
+      Záznam:
+        Čas: 2025-01-23 12:15:22
+        Cena (Kč): 18990
+        Hodnocení: 4.8
+        Dostupnost: Neznámé
+        URL: https://www.alza.cz/iphone-13?dq=6731122
+
+    Název: iPhone 13 128GB černá
+      Záznam:
+        Čas: 2025-01-23 12:15:47
+        Cena (Kč): 10990
+        Hodnocení: 4.8
+        Dostupnost: Neznámé
+        URL: https://www.alza.cz/iphone-13-128gb-cerna-bazar-d7063249.htm
+
+    Název: iPhone 13 128GB zelená
+      Záznam:
+        Čas: 2025-01-23 12:16:15
+        Cena (Kč): 12990
+        Hodnocení: 4.8
+        Dostupnost: Neznámé
+        URL: https://www.alza.cz/iphone-13?dq=7059007
+
+    Název: iPhone 13 Pro Max 512GB modrá
+      Záznam:
+        Čas: 2025-01-23 12:16:40
+        Cena (Kč): 38690
+        Hodnocení: 4.8
+        Dostupnost: Neznámé
+        URL: https://www.alza.cz/iphone-13-pro-max-512gb-modra-bazar-d7653060.htm
+
+    Název: iPhone 13 Mini 128GB zelená
+      Záznam:
+        Čas: 2025-01-23 12:17:06
+        Cena (Kč): 16390
+        Hodnocení: 4.9
+        Dostupnost: Neznámé
+        URL: https://www.alza.cz/iphone-13-mini-128gb-zelena-bazar-d7427075.htm
+
+    Název: iPhone 13 Pro 256GB zlatá
+      Záznam:
+        Čas: 2025-01-23 12:17:32
+        Cena (Kč): 29890
+        Hodnocení: 4.8
+        Dostupnost: Neznámé
+        URL: https://www.alza.cz/iphone-13-pro-256gb-zlata-bazar-d7232468.htm
+
