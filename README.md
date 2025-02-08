@@ -31,4 +31,9 @@ Výsledky se ukládají do souboru `produkty_hierarchie.txt` pro další zpracov
 - `matplotlib`, `io`, `base64` 
 - `functools`, `os`, `json`  
 
-
+##To-Do List
+🔲 Scrapovat více informací
+🔲 upozornění uživatele e-mailem pokud cena klesne pod určitou hranici
+🔲 Možnost sledovat více e-shopů
+🔲 Automatizovaný scraping pomocí cron
+🔲 Šifrování hesel
